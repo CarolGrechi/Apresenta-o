@@ -1,17 +1,46 @@
-# Olá, sou a Carol!
+# Olá, sou a Carol
 
-Sou uma pessoa interessada em tecnologia e programação. Estou a aprender, a desenvolver novas competências e a criar projetos.
+### Estudante | Tecnologia e Desenvolvimento Web
+
+Estudante interessada em tecnologia, programação e desenvolvimento de projetos. Atualmente, estou a aprender e a desenvolver as minhas competências na área informática.
+
+---
 
 ## Sobre mim
 
-* Atualmente, estou a aprender.
-* Gosto de explorar novas tecnologias.
-* Procuro melhorar as minhas competências.
+* Atualmente, estou a aprender desenvolvimento web.
+* Tenho interesse em programação e novas tecnologias.
+* Gosto de desenvolver projetos e adquirir experiência prática.
+* Procuro evoluir e melhorar continuamente.
+
+## Tecnologias e ferramentas
+
+**Linguagens**
+
+* HTML
+* CSS
+* JavaScript
+
+**Ferramentas**
+
+* Git
+* GitHub
+* Visual Studio Code
 
 ## Projetos
 
-Aqui partilho os meus projetos e trabalhos.
+### Projetos pessoais
 
-## Objetivo
+Aqui apresento os meus projetos, exercícios e trabalhos desenvolvidos durante o meu percurso de aprendizagem.
 
-Aprender, evoluir e ganhar experiência na área da tecnologia.
+* Desenvolvimento web
+* Projetos de programação
+* Experiências com novas tecnologias
+
+## Objetivos
+
+Aprofundar os meus conhecimentos, desenvolver projetos próprios e adquirir experiência na área da tecnologia.
+
+---
+
+Obrigado por visitares o meu perfil.
